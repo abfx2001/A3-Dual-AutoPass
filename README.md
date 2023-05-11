@@ -2,7 +2,7 @@
 
 <h1> Projeto UC Dual Auto Pass </h1>
 <h2> Integrantes do Grupo: </h2>
-<img src="./public/img/mirai3.png"width="80rem">
+<img src="https://github.com/abfx2001/A3-Dual-AutoPass/assets/71567139/fe44d000-b886-4ef4-ad0e-0cf389b36e4f"width="80rem">
 <h2> Arthur Batista Furlan, RA: 820140000 </h2>
 </div>
 
