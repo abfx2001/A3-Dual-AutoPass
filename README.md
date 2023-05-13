@@ -74,6 +74,29 @@ Recarga/Status do `Bilhete Único`: o bilhete único é muito utilizado, ele é 
 
 ## User Flow
 
+```mermaid
+---
+title: Fluxo de Usuário com o Cartão TOP
+---
+graph LR 
+A[início] --> B[Tela \n Principal]
+B --> C[Inserir \n Cartão TOP]
+C --> C1[Selecionar \n Cartão TOP]
+C1 --> D1[Ver Saldo \n de Tarifas]
+C1 --> D2[Recarregar \n Cartão] 
+D2 --> D3{Tipo de \n Recarga}
+D3 -->|V.T.| D4
+D3 -->|Comum| D4
+D3 -->|Escolar| D4
+D4[Escolher \n Quantidade] -->
+D{Selecionar \n forma de \n Pagamento}
+D --> |Dinheiro| E[e]
+D --> |Cartão de Débito| F[f]
+D --> |PIX| G[g]
+
+
+```
+
 # 2 - Personas
 
 # 3 - Scenery
