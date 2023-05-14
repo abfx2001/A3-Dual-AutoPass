@@ -163,8 +163,8 @@ F --> G[Fim]
 
 # 2 - Personas
 
-<iframe src="https://github.com/abfx2001/A3-Dual-AutoPass/issues/2#issue-1708834585"></iframe>
+![persona](https://github.com/abfx2001/A3-Dual-AutoPass/assets/71567139/189c530e-f225-49e8-add4-f2d8160eb4e9)
 
-* [LINK PARA PERSONAS COMPLETO](https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4)
+* [LINK PARA VER AS PERSONAS COMPLETAS](https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4)
 
 # 3 - Scenery
