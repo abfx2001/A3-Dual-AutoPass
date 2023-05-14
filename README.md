@@ -156,10 +156,15 @@ D --> D1[Inserir Cedulas]
 E --> E1[Digitar Senha]
 D1 --> C1
 E1 --> C1
+C1 --> I[Informativo para \n Utilização do Aplicativo]
 C1 --> F[Imprimir Comprovante]
 F --> G[Fim]
 ```
 
 # 2 - Personas
+
+<iframe src="https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4" width="800" height="500" frameborder="0"></iframe>
+
+* [LINK PARA PERSONAS COMPLETO](https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4)
 
 # 3 - Scenery
