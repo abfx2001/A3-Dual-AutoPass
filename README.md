@@ -88,13 +88,76 @@ D2 --> D3{Tipo de \n Recarga}
 D3 -->|V.T.| D4
 D3 -->|Comum| D4
 D3 -->|Escolar| D4
-D4[Escolher \n Quantidade] -->
-D{Selecionar \n forma de \n Pagamento}
-D --> |Dinheiro| E[e]
-D --> |Cartão de Débito| F[f]
-D --> |PIX| G[g]
 
+D4{Selecionar \n forma de \n Pagamento}
+D4 --> |Dinheiro| D5
+D4 --> |Cartão de Débito| D5
+D4 --> |PIX| D5
+D5[Escolher \n Quantidade] --> E[Efetuar \n Pagamento]
+E --> G[Emitir \n Comprovante]
+G --> H[Fim]
+```
 
+```mermaid
+---
+title: Fluxo de Usuário com o Bilhete Digital QR Code
+---
+graph LR 
+A[início] --> B[Tela \n Principal]
+B --> C[Selecionar \n Bilhete Digital \n QR Code]
+C --> DE[Re-imprimir QR Code] 
+C --> DR[Consultar QR Code] 
+C --> DC[Comprar QR Code] 
+DC --> D2[Escolher \n Quantidade] 
+D2 --> D3{Selecionar \n forma de \n Pagamento}
+D3 -->|PIX| E
+D3 -->|Cartão de Débito| E
+E[Efetuar \n Pagamento]
+E --> G[Emitir \n Código QR Code]
+G --> H[Emitir \n Comprovante]
+H --> I[Fim]
+```
+
+```mermaid
+---
+title: Fluxo de Usuário com o Bilhete Único
+---
+graph LR 
+A[início] --> B[Tela \n Principal]
+B --> C[Inserir \n Bilhete Único]
+C --> C1[Selecionar \n Bilhete Único]
+C1 --> D1[Ver Saldo \n de Tarifas]
+C1 --> D2[Recarregar \n Cartão] 
+D2 --> D3{Tipo de \n Recarga}
+D3 -->|V.T.| D4
+D3 -->|Comum| D4
+D3 -->|Escolar| D4
+
+D4{Selecionar \n forma de \n Pagamento}
+D4 --> |Dinheiro| D5
+D4 --> |Cartão de Débito| D5
+D4 --> |PIX| D5
+D5[Escolher \n Quantidade] --> E[Efetuar \n Pagamento]
+E --> G[Emitir \n Comprovante]
+G --> H[Fim]
+```
+
+```mermaid
+---
+title: Fluxo de Usuário Durante o Pagamento
+---
+graph LR 
+A[início] --> B{Tipo de \n Pegamento}
+B --> |PIX| C[Efetuar transferência \n pela leitura do QR Code]
+B --> |Dinheiro| D[Selecionar o valor \n referente as cedulas]
+B --> |Cartão de Débito| E[Inserir o cartão na máquina]
+C --> C1[Compra Efetuada]
+D --> D1[Inserir Cedulas]
+E --> E1[Digitar Senha]
+D1 --> C1
+E1 --> C1
+C1 --> F[Imprimir Comprovante]
+F --> G[Fim]
 ```
 
 # 2 - Personas
