@@ -168,3 +168,7 @@ F --> G[Fim]
 * [LINK PARA VER AS PERSONAS COMPLETAS](https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4)
 
 # 3 - Scenery
+
+![cenários](https://github.com/abfx2001/A3-Dual-AutoPass/assets/71567139/1fcd8c02-8b6d-4133-97d0-333ab11178b9)
+
+* [LINK PARA VER OS CENÁRIOS COMPLETOS](https://app.milanote.com/1PY5ve1fEkw9bX?p=nIaCScZLOQV)
