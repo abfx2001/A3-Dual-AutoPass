@@ -163,7 +163,9 @@ F --> G[Fim]
 
 # 2 - Personas
 
+<div>
 <iframe src="https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4" width="800" height="500" frameborder="0"></iframe>
+</div>
 
 * [LINK PARA PERSONAS COMPLETO](https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4)
 
