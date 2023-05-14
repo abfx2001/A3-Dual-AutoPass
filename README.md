@@ -163,9 +163,7 @@ F --> G[Fim]
 
 # 2 - Personas
 
-<div>
-<iframe src="https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4" width="800" height="500" frameborder="0"></iframe>
-</div>
+<iframe src="https://github.com/abfx2001/A3-Dual-AutoPass/issues/2#issue-1708834585"></iframe>
 
 * [LINK PARA PERSONAS COMPLETO](https://app.milanote.com/1PY3FG1lEWvXbZ?p=bnJFryhCiY4)
 
