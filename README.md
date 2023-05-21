@@ -16,6 +16,8 @@
   * [User Flow](#user-flow)
 * [2 - Personas](#2---personas)
 * [3 - Scenery](#3---scenery)
+* [4 - Lo-Fi Prototype](#4---lo-fi-prototype)
+* [5 - Hi-Fi Prototype](#5---hi-fi-prototype)
 
 # About Project
 
@@ -172,3 +174,15 @@ F --> G[Fim]
 ![cenários](https://github.com/abfx2001/A3-Dual-AutoPass/assets/71567139/1fcd8c02-8b6d-4133-97d0-333ab11178b9)
 
 * [LINK PARA VER OS CENÁRIOS COMPLETOS](https://app.milanote.com/1PY5ve1fEkw9bX?p=nIaCScZLOQV)
+
+# 4 - Lo-Fi Prototype
+
+Protótipos de Baixa Fidelidade (ou ``lo-fi``, do inglês ``low-fidelity``) são modelos simples e rápidos que representam uma ideia ou conceito em um estágio inicial de desenvolvimento.
+
+* [LINK PARA VER O PROTÓTIPO LO-FI](https://balsamiq.cloud/ssexrj2/pfy9rw9)
+
+# 5 - Hi-Fi Prototype
+
+Protótipos de Alta Fidelidade (ou ``hi-fi``, do inglês ``high-fidelity``) são modelos mais refinados e detalhados que simulam com maior precisão as funcionalidades e interações do produto ou sistema final.
+
+* [LINK PARA VER O PROTÓTIPO HI-FI](https://balsamiq.cloud/ssexrj2/pfy9rw9)
