@@ -185,4 +185,4 @@ Protótipos de Baixa Fidelidade (ou ``lo-fi``, do inglês ``low-fidelity``) são
 
 Protótipos de Alta Fidelidade (ou ``hi-fi``, do inglês ``high-fidelity``) são modelos mais refinados e detalhados que simulam com maior precisão as funcionalidades e interações do produto ou sistema final.
 
-* [LINK PARA VER O PROTÓTIPO HI-FI](https://balsamiq.cloud/ssexrj2/pfy9rw9)
+* [LINK PARA VER O PROTÓTIPO HI-FI](https://www.figma.com/file/3vQghTl54w8O6ImyTOxhDP/A3---Auto-Pass?type=design&node-id=0%3A1&t=ANniMc4HFyHwiyMD-1)
