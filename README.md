@@ -18,6 +18,7 @@
 * [3 - Scenery](#3---scenery)
 * [4 - Lo-Fi Prototype](#4---lo-fi-prototype)
 * [5 - Hi-Fi Prototype](#5---hi-fi-prototype)
+* [6 - Relatório analítico das Heurísticas de Nielsen](#6--Relatório-analítico-das-Heurísticas-de-Nielsen)
 
 # About Project
 
@@ -186,3 +187,7 @@ Protótipos de Baixa Fidelidade (ou ``lo-fi``, do inglês ``low-fidelity``) são
 Protótipos de Alta Fidelidade (ou ``hi-fi``, do inglês ``high-fidelity``) são modelos mais refinados e detalhados que simulam com maior precisão as funcionalidades e interações do produto ou sistema final.
 
 * [LINK PARA VER O PROTÓTIPO HI-FI](https://www.figma.com/file/3vQghTl54w8O6ImyTOxhDP/A3---Auto-Pass?type=design&node-id=0%3A1&t=ANniMc4HFyHwiyMD-1)
+
+# 6 - Relatório analítico das Heurísticas de Nielsen
+
+* [LINK PARA VER O RELATÓRIO](https://docs.google.com/document/d/1wMo9zz8iNJMUtbG6rfxZc-oMUaYjx5Qolua_zwhg1h0/edit?usp=sharing)
