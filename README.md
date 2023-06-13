@@ -18,7 +18,8 @@
 * [3 - Scenery](#3---scenery)
 * [4 - Lo-Fi Prototype](#4---lo-fi-prototype)
 * [5 - Hi-Fi Prototype](#5---hi-fi-prototype)
-* [6 - Relatório analítico das Heurísticas de Nielsen](#6--Relatório-analítico-das-Heurísticas-de-Nielsen)
+* [6 - Relatório analítico das Heurísticas de Nielsen](#6---relat%C3%B3rio-anal%C3%ADtico-das-heur%C3%ADsticas-de-nielsen)
+* [7 - Apresentação do projeto](#7---apresenta%C3%A7%C3%A3o-do-projeto)
 
 # About Project
 
@@ -191,3 +192,9 @@ Protótipos de Alta Fidelidade (ou ``hi-fi``, do inglês ``high-fidelity``) são
 # 6 - Relatório analítico das Heurísticas de Nielsen
 
 * [LINK PARA VER O RELATÓRIO](https://docs.google.com/document/d/1wMo9zz8iNJMUtbG6rfxZc-oMUaYjx5Qolua_zwhg1h0/edit?usp=sharing)
+
+# 7 - Apresentação do projeto
+
+* [LINK PARA A APRESENTAÇÃO](https://docs.google.com/presentation/d/1wHEqbN_xNpXm6YuiBO18ojwuH2WeHBypnN8o1Ijg_uA/edit?usp=sharing)
+
+* [LINK PARA A O VIDEO DA APRESENTAÇÃO](https://youtu.be/pN_uG87brYk)
